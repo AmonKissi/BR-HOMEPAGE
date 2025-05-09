@@ -1,0 +1,12 @@
+self.__RSC_CSS_MANIFEST={
+  "cssImports": {
+    "/Users/macbookpro/Desktop/brstore-v3.0.3/liftoff/app/layout.tsx": [
+      "/Users/macbookpro/Desktop/brstore-v3.0.3/liftoff/styles/globals.css"
+    ]
+  },
+  "cssModules": {
+    "/Users/macbookpro/Desktop/brstore-v3.0.3/liftoff/app/page": [
+      "/Users/macbookpro/Desktop/brstore-v3.0.3/liftoff/styles/globals.css"
+    ]
+  }
+}
